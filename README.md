@@ -1,5 +1,5 @@
 <h1 align="center">Serkan Mert Kaptan</h1>
-<p align="left"> <a href="https://twitter.com/sknmk_" target="blank"><img src="https://img.shields.io/twitter/follow/sknmk_?logo=twitter&style=for-the-badge" alt="sknmk_" /></a> </p>
+
 
 - 🔭 I’m currently working at [MAP E-Commerce and Data Services Inc.](www.map.com.tr)
 
