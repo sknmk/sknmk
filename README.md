@@ -1,9 +1,9 @@
 <h1 align="center">Serkan Mert Kaptan</h1>
 
 
-- 🔭 I’m currently working at [MAP E-Commerce and Data Services Inc.](www.map.com.tr)
+- 🔭 I’m currently working at [Akinon](www.akinon.com)
 
-- 💬 Ask me about **javascript, php, react, vue, node.js, electron**
+- 💬 Ask me about **python, django, drf, javascript, php, react, vue, node.js, electron**
 
 - 📫 How to reach me **serkanmertkaptan@gmail.com**
 
