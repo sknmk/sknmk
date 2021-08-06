@@ -1,7 +1,7 @@
 <h1 align="center">Serkan Mert Kaptan</h1>
 
 
-- 🔭 I’m currently working at [Akinon](www.akinon.com)
+- 🔭 I’m currently working at [Akinon](https://www.akinon.com)
 
 - 💬 Ask me about **python, django, drf, javascript, php, react, vue, node.js, electron**
 
