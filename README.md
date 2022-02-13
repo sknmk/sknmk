@@ -23,7 +23,7 @@
     <a href="https://www.python.org" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" alt="py" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com" target="_blank"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1280px-Django_logo.svg.png" alt="django" width="40" height="40"/> </a>
+            src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png" alt="django" width="40" height="40"/> </a>
     <a href="https://babeljs.io/" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a
         href="https://www.gnu.org/software/bash/" target="_blank"> <img
